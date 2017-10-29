@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gallery Flickr</string>
+    <string name="title_photo_detail">Photo Detail</string>
+    <string name="photo_title_caption">Photo title:</string>
+</resources>
